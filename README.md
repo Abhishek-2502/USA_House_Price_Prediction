@@ -1,6 +1,6 @@
 # House Price Prediction with AIML
 
-This project utilizes Artificial Intelligence Markup Language (AIML) to predict house prices in the USA using a linear regression model. The model achieves an accuracy of 91% on the provided dataset.
+This project utilizes Artificial Intelligence Markup Language (AIML) to predict house prices in the USA using a linear regression model.
 
 ## Dataset
 

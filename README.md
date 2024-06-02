@@ -1,7 +1,3 @@
-Sure, here's a template for your README file:
-
----
-
 # House Price Prediction with AIML
 
 This project utilizes Artificial Intelligence Markup Language (AIML) to predict house prices in the USA using a linear regression model. The model achieves an accuracy of 91% on the provided dataset.
@@ -26,27 +22,6 @@ Linear regression is employed to predict house prices based on the given feature
 
 The accuracy of the linear regression model on the provided dataset is 91%. This indicates that the model can effectively predict house prices based on the given features.
 
-## Usage
-
-To utilize the trained model for predicting house prices, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone <repository_url>
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the prediction script:
-
-```bash
-python predict_house_price.py
-```
 
 ## Future Improvements
 
@@ -56,9 +31,4 @@ python predict_house_price.py
 
 ## Authors
 
-- Ansh Sharma
-
-
-
----
-
+- Abhishek Rajput
